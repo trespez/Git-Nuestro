@@ -1,4 +1,4 @@
-# Git Nuestro
+#Git Nuestro
 
   Git nuestro que estas en los *repos*
   Comprimidos sean tus *commits*
@@ -10,3 +10,4 @@
   No nos dejes caer en *detached HEAD*
   Y libranos  de *SVN*
   `git commit --amend`
+
